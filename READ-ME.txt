@@ -1,0 +1,51 @@
+Jamie_Payroll is the solution that must be referred to during the marking process.
+
+The program that was created is an employee payroll calculator for the company UrbanFurn, following a resurfacing error in the overtime pay department. The calculator takes user input from the employee, which is the hours that they have worked and the shift rate they were working for, and uses this to compile their net income or payroll for the week.
+
+There are three shifts in which a user can work. The first shift pays R50 an hour, the second shift pays R70 an hour, and the third shift pays R90 an hour. The user can input any number of hours.
+
+The standard hours worked in a week is 40 hours. Any hour that extends this is considered overtime. The overtime pay is calculated by taking the hours extending 40 and multiplying that by the rate, produced by one and one-half. This only occurs for the hours exceeding 40, not the total hours.
+
+Should a user be working for the second or third shift, they will be offered an optional retirement plan. Should they accept the offer, 5% of their total pay will be deducted from their gross income, including their overtime pay. Should they reject the offer, the deduction will not go through.
+
+Once the necessary information has been processed, a breakdown of the user’s payroll will be displayed. This includes their hours, their shift number, the shift rate, the regular pay, the overtime payroll if applicable, the total payroll, the retirement fund if applicable, and the net payment.
+
+=============================================================================================================
+
+To run the program effectively, the following specifications are recommended, but not necessarily required:
+
+
+PROCESSOR (CPU):
+Intel: Core i5
+
+MEMORY (RAM):
+Recommended: 8GB 
+
+STORAGE:
+Type: Solid State Drive for faster performance
+Recommended Capacity: 256GB 
+
+GRAPHICS CARD:
+Integrated CPU
+
+DISPLAY:
+Size: 13-14 inches (sufficient for easy usage)
+Resolution: Full HD (1920 x 1080)
+
+BATTERY LIFE:
+Span: approximately 8 hour of battery life for all day usage
+
+OPERATING SYSTEM:
+Windows
+macOS
+Linux
+
+CONNECTIVITY:
+Sufficient ports
+Wi-Fi 6
+Bluetooth 5.0	
+
+========================================================================
+
+This program was created by Jamie Myburgh.
+
